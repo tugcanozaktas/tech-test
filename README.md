@@ -7,10 +7,10 @@ This repository contains the solution to the technical test, which involved buil
 ## Screenshots
 
 ### Desktop View
-![Desktop Screenshot](../../tech-test/Screenshot%20from%202024-01-03%2014-35-58.png)
+![Desktop Screenshot](./public/desktop-view.png)
 
 ### Mobile View
-![Mobile Screenshot](../../tech-test/Screenshot%20from%202024-01-03%2014-34-56.png)
+![Mobile Screenshot](./public/mobile-view.png)
 
 ## Technologies Used
 
