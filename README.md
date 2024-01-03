@@ -31,6 +31,7 @@ While the current version of the app fulfills the basic requirements, here are s
 
 - Enhance responsiveness for different types of mobile devices.
 - Implement CSS animations to enhance the visual appeal.
+- Make the images in search results clickable be able to see pictures without distortion.
 
 ## Author
 
